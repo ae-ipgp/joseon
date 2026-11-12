@@ -1,0 +1,5 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": { "types": [], "typeRoots": [], "paths": { "zod": ["/opt/npm-tools/node_modules/zod"] } },
+  "include": ["../../src", "types"]
+}

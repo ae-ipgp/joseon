@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#2b2624"/><rect x="5" y="5" width="54" height="54" rx="8" stroke="#b99a61" fill="none" stroke-width="2"/><path d="M11 39L32 15l21 24-5 0L32 23 16 39Z" fill="#b99a61"/><path d="M17 42h30v7H17Z" fill="#893e38"/><text x="32" y="41" text-anchor="middle" font-size="16" fill="#f5dfad" font-family="serif">朝</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="2" y="2" width="60" height="60" rx="6" fill="#8E2230"/>
+  <rect x="7" y="7" width="50" height="50" rx="3" fill="none" stroke="#F1E8D4" stroke-width="2.5"/>
+  <path d="M11 31 C19 31 23 23 32 18.5 C41 23 45 31 53 31 C49 35.5 43 35 32 35 C21 35 15 35.5 11 31 Z" fill="#E2C98E"/>
+  <rect x="26" y="15.5" width="12" height="3.2" rx="1.2" fill="#E2C98E"/>
+  <rect x="19" y="36" width="4" height="13" fill="#F1E8D4"/>
+  <rect x="30" y="36" width="4" height="13" fill="#F1E8D4"/>
+  <rect x="41" y="36" width="4" height="13" fill="#F1E8D4"/>
+  <rect x="14" y="49" width="36" height="4" fill="#E2C98E"/>
+</svg>

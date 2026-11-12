@@ -1,12 +1,16 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import App from './App'
-import './style.css'
-import './premium.css'
-import './culture.css'
+import { StrictMode } from 'react';
+import { createRoot } from 'react-dom/client';
+import { App } from './App';
+import './styles/tokens.css';
+import './styles/app.css';
+import { installErrorLog } from './save/diagnostics';
+import { registerServiceWorker } from './sw-register';
 
-ReactDOM.createRoot(document.getElementById('root')!).render(
-  <React.StrictMode>
+installErrorLog();
+registerServiceWorker();
+
+createRoot(document.getElementById('root')!).render(
+  <StrictMode>
     <App />
-  </React.StrictMode>
-)
+  </StrictMode>,
+);

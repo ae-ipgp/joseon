@@ -1,0 +1,30 @@
+:root {
+  --ink: #1b1513;
+  --ink-raised: rgba(22, 16, 15, 0.84);
+  --ink-deep: #120e10;
+  --jaju: #6b1626;
+  --jaju-deep: #4a0e1a;
+  --seal: #8e2230;
+  --hanji: #ede3cc;
+  --hanji-light: #f2ead6;
+  --hanji-shade: #e3d5b8;
+  --hanji-inset: #e6d8b9;
+  --rule: #c9b996;
+  --gold: #b08d57;
+  --gold-light: #c9a86a;
+  --jade: #2f5e55;
+  --text-paper: #1b1513;
+  --text-paper-2: #3a2d28;
+  --muted-paper: #5e5048;
+  --text-ink: #f1e8d4;
+  --text-ink-2: #e6dcc6;
+  --muted-ink: #b5a68c;
+  --frame: 1px solid rgba(201, 168, 106, 0.45);
+
+  --font-ko-display: 'Song Myung', 'Hahmlet', 'Noto Serif CJK KR', 'Batang', serif;
+  --font-text: 'Hahmlet', 'Noto Serif KR', 'Noto Serif CJK KR', 'Batang', Georgia, serif;
+
+  --radius: 2px;
+  --tap: 44px;
+  --stamp: 380ms cubic-bezier(0.3, 1.5, 0.5, 1);
+}
